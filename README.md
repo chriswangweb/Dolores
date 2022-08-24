@@ -7,4 +7,4 @@ Some people choose to see the ugliness in this world. I choose to see the beauty
 ![image](https://github.com/chriswangweb/Dolores/blob/master/Dolores.jpg)
 
 ## 架构
-![image](https://github.com/chriswangweb/Dolores/blob/master/Dolores.jpg)
+![image](https://github.com/chriswangweb/Dolores/blob/master/image/chat1.png)
